@@ -1,7 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-// Calea către fișierul index.html rezultat după build
 const indexPath = path.join(process.cwd(), 'dist', 'index.html');
 
 async function updateIndexHtml() {
