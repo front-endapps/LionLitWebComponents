@@ -1,6 +1,10 @@
-<p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
-</p>
+
+I use Netlify to host this app:
+
+https://splendorous-pegasus-5be276.netlify.app/
+
+
+
 
 ## Open-wc Starter App
 
